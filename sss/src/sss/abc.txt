@@ -1,0 +1,248 @@
+अनाज की लिस्ट(Corn list)		
+		
+चावल मील 	Chaval Meal	Rice Meals
+चावल बॉयल्ड 	Chaval Boiled	Boiled Rice 
+चावल बासमती	Basmati Chaval 	Basmati Rice 
+दोसा चावल 	Dosa Chaval 	Dosa Rice
+साबूदाना 	Sabudana	Sago Rice
+बाजरा 	Bajra	Millet
+साबुत मुंग 	Sabut Mung	Green Gram
+चना	Chana	Bengal Gram 
+उड़द घोटा 	Udad Ghota	Bengal Gram
+हरा चना 	Hara Chana	Green Corn
+काबुली चना	Kabuli Chana 	Chick Peas 
+मोट्ट/मटकी 	Matki	TurkishGram 
+गेहूं 	Genhun	Wheat
+रागी 	Ragi	Finger Millet
+हरे सूखे मटर 	Hare Sukhe Mater	Dry Green Peas
+मूंगफली 	Munghfali	Groundnut
+राजमा 	Rajma 	Kidney-Beans
+चवली 	Chvali	Black Eyed Pea
+जौ	Jau	Oat bram
+मक्का 	Makka	Corn
+		
+आटा(Flours)		
+गेहूं का आटा 	Gehun Aata	Wheat Flour
+चावल का आटा 	Chaval Aata	Rice Flour
+मैदा 	Maida	All Puepose Floue
+बेसन 	Besan	Gram Flou
+मक्कई आटा 	Makkai Aata	Cornflour
+उपमा रवा 	Upma Rava	Wheat Semolina
+इडली रवा 	Idly Rava	Rice Semolina
+रागी का आटा	Ragi Aata	Finger Millet Flour
+दलिया 	Daliya 	Broken Wheat
+पोहा 	Poha	Bitten Rice
+सेमिया 	Semiya 	Semolina
+मुरमुरा 	Murmura	Puffed Rice
+भुना हुआ रवा 	Bhuna Hua Rava	Rosted Rava
+बाजरे का आटा 	Bajra Aata	Millet Flour
+आटा कोदो 	Aata Kodo	Kodo Flour
+		
+		
+ 		
+दाल(Pulse)		
+		
+मुंग दाल 	Mung Dal	Green Gram Pulse
+चना दाल 	Chana Dal 	ChickPea Lentil 
+कुल्थी दाल 	Kulthi Dal 	HorseGram Pulse
+मसूर दाल 	Masur Dal 	Red Lentil
+मटर दाल 	Matar Dal 	Pea Split Pulse 
+तूर दाल	Toor Dal 	Split Red Gram
+पीली मूंग दाल 	Pili Mung Dal 	Yellow gram Pulse
+उड़द	Udad Dal 	Black Gram
+उड़द की धुली दाल 	Safed Udad Daal	Skinned White Lentil
+सोयाबीन 	Soyabin	Soyabin
+अरहर की दाल 	Arhar Dal	Pigeon Pea
+भट की दाल 	Bhat Dal	Bhat Pulse
+सेम 	Sem	Beans Pulse
+राजमा 	Rajm	Kidney Beans Pulse
+		
+मसाले(Spices) 		
+केसर दूध पाउडर 	Kesar Doodh Powder	Saffron Mik Powder
+चाय मसाला 	Chay Masala	Tea Masala 
+गरम मसाला 	Garam Masala	Garam Masala
+किचन किंग 	Kitchen King Masala	Kitchen King Masala
+पाव भाजी मसाला 	Pav Bhaji Masala	Pav Bhaji Masala
+छोले मसाला 	Chhole Masala	Chhole Masala
+राजमा मसाला 	Rajma Masala	Rajma Masala
+सब्जी मसाला 	Sabji Masala	Sabji Masala
+बिरयानी पुलाव मसाला 	Biryani Pulav Masala	Biryani Pulav Masala
+फिश करी मसाला 	Fish Curry Masala	Fish Curry Masala
+एग करी मसाला 	Egg Curry Masala	Egg Curry Masala
+चिकन मसाला 	Chicken Masala	Chicken Masala
+मीट मसाला 	Meat Masala	Meat Masala
+जलजीरा पाउडर 	Jaljeera	Jaljeera
+चाट पाउडर 	Chat Masala	Chat Masala
+सांभर मसाला 	Sambahr Masala	Sambahr Masala
+रेशम मसाला 	Reshm Masala	Reshm Masala
+		
+नमक/ शक्कर(Salt/Sugar)		
+आयोडीन नमक 	Iyodin Namak	Iodized Salt
+रॉक साल्ट 	Rock namak 	Rock Salt
+शक्कर 	Shakkr	Sugar
+क्रिस्टल शक्कर 	Crystal Shakkr	Crystal Sugar
+गुड़ 	Gud	Jaggery
+ईमली 	Imli	Tamarind
+सुखी मिर्ची 	Sukhi Mirchi	Dry Chilli
+धनिया 	Dhaniya	Coriander Seeds
+मेथी 	Methi	Fnugreek Seeds
+सरसों	Sarnson	Mstard Seeds
+तिल 	Til	Seseme Seeds
+काली मिर्च 	Kali Mirch	Pepper Corn
+जीरा 	Jeera	Cumin
+शाह जीरा 	Shah Jeera	Caraway Seeds
+खसखस 	Khaskhas	Poppy Seeds
+इलायची 	Ilayachi	Cardamom
+लौंग 	Lavang	Clove
+सौंफ 	Saungh	Fennel
+तेज पत्ता 	Tej Patta	Bay leaf
+दालचीनी 	Dalchini	Cinnamon
+जावित्री 	Javitri	Mace
+कसूरी मेथी 	Kasuri Methi	Fenugeek Leaves
+जायफल	Jyfal	Nutmeg
+अनान्सका फूल  	Ananska Fool	Star Anise
+अजवायन 	Ajvayan	CaromSeeds
+सफ़ेद मिर्ची 	Safed Mirchi 	White Papper
+हल्दी घोटा 	Haldi Ghota	Turmeric Sticks
+हल्दी 	Haldi	Turmeric Powder
+कालोंजी 	Kalonjji	Nigella Seeds
+जीरा पाउडर 	Jeera Powder	Cumin Powder
+धनिया पाउडर 	Dhaniya Powder	Fenugreek Powder
+काली मिर्ची पाउडर 	Kali Mirch Powder	Pepper Powder
+हींग	Heeng	Asafoetida
+अमचुर 	Amchur	Dried
+सोंठ 	Songth	Mango Powder
+कोकम 	Kokum	Garcinia
+		
+		
+सफाई का सामान (cleaning Supplies)		
+बर्तन धोने का साबुन 	Bartan Dhone Ka Sabun 	Dish Wash Soap
+बर्तन धोने का पाउडर 	Bartan Dhone Ka Powder	Dish Wash Powder
+बर्तन धोने का लिक्विड 	Bartan Dhone Ka Taral	Dish Wash liquid
+कपडे धोने का पाउडर 	Kapde Dhone Ka Powder 	Washing Powdeer
+नहाने का साबुन 	Nahane Ka Sabun 	Bathing Soap
+कपडे धोने का साबुन 	Kapde Dhone Ka Sabun 	Wshing Soap
+छत क्लीनर 	Chht Cleaner	Celing Cleaner
+फर्श क्लीनर 	Farsh Cleaner	floor Cleaner
+फिनायल 	Finayal	Finoyal
+कचरा पात्र थैली 	Kachra Patra Theli 	Dustbin bags
+मच्छर का इलाज 	Machahr Ka Ilaj	Mostique Soltion
+नेफ्थेलीन की गोलियां  	Naphthalene Ki Goliyan	Naphthalene Tablets
+ बर्तन साफ करने की जाली 	Bartan Saf Karne Ki jali	Dish Cleaner
+ जीभ क्लीनर 	Jeebh cleaner	Tongue Cleaner
+		
+टॉयलेटरीज (Toiletries)		
+टूथ ब्रश 	Tooth Brsh	Tooth Brsh
+टूथ पेस्ट 	Tooth Paste	Tooth Paste
+नहाने का साबुन 	Nahane Ka Sabun 	Bathing Soap
+शैम्पू 	Shampoo	Shampoo
+बालों का कंडीशनर 	Balon Ka Conditioner	Hair Conditioner
+सेनेटाइजर 	Sanitizer	Sanitizer
+सुगन्धित पाउडर 	Powder	Powder
+बॉडी लोशन 	body lotion 	Body lotion
+शेविंग लोशन 	Shaving Lotion	Shaving Lotion
+बालों के लिए जेल 	Balo Ke Liye Jel	Hair Jel 
+बालों का तेल 	balon Ka Tail	Hair Oils
+रेजर ब्लेड 	Tazer Blades	Tazer Blades
+बेबी प्रोडक्ट्स 	Baby Products 	Baby Products 
+		
+ताजा उपज आइटम(Fresh Produce Item)		
+आलू 	Aloo	Potato
+प्याज 	Pyaj 	Onion
+लहसुन 	Lahsun	Garlic
+टमाटर 	Tamatar	Tomato
+		
+		
+ 		
+		
+अचार मुरब्बा(Jam & Pickle)		
+जैम 	Jam	Jam 
+मुरब्बा 	Murbba	Marmalade
+अचार 	Achar	Pickle
+शहद 	Shahad	Honey
+विनेगर 	Vinegar 	Vinegar
+पापड़ 	Papad	Wafer
+अथाना मिर्ची 	Athana Mirchi 	Spicey Chilli
+सुखी सब्जी 	Sukhi Sabji 	Dry Vegetable
+भुने हुए सूखे मेवे 	Bhun Huye Sukhe Meve	Dry Fruits
+सॉस 	Sauce	Sauce
+		
+		
+		
+ड्राई फ्रूट(Dry Fruits)		
+		
+सुखा अंजीर 	Sukha Anjeer	Dry Fig
+सुखी खुबानी/ खुरमानी 	Sukhi Khurmani	Dry Apricots
+बादाम 	Badam	Almonds
+काजू 	kaju	Cashew Nut
+नारियल 	Nariyal	coconut
+सुखी खजूर 	Sukhi Khjur	Dates
+किशमिश 	Kishmish	Raisins
+मुनक्का 	Munkka	Sultana Raisins
+पिस्ता 	Pista	Pistachios
+केसर 	Kesar	Sffron
+अखरोट 	Akhroat	Walnuts
+सुपारी 	Supari	Betel Nut
+खरबूज के बीज 	Khajur Ke Beej	Cantalopue Seeds
+शाहबलूत 	Shahbalut	Chestnut
+चिरोंजी 	Chironji	Cudpahnut
+छुहारा 	CHuhara	Dates Dried
+अलसी का बीज 	Alsi Ke Beej 	Flax Seeds
+मखाना 	Makhana	Lotus Seeds Pop
+चिलगोजा 	Chilgoja	Pine Nut
+कद्दू के बीज	Kaddu Ke beej 	Pumpkin Seeds
+तरबूज के बीज 	Tarbuj Ke Beej	Water Melon Seeds
+आलुबखारा 	Aloobukhara	Prunes
+चिया बीज 	Chia Beej	Chia Seeds
+		
+पेय पदार्थ(Beverages)		
+जूस 	Juice	Juice
+चाय पत्ती 	Chay Pati	Tea Leaves
+कॉफ़ी 	Coffee	Coffee
+बच्चों के लिए पेय सामग्री 	Bachchon Ke Liye Pey 	Kids Drinks
+चॉकलेट 	Chocolate	Chocolate
+		
+		
+ब्रेड और स्नैक्स(Bread/Snack)		
+ब्रैड 	Bread	Bread
+अंडे 	Ande	Eggs
+नमकीन 	Namkeen	Mixtures
+बिस्कुटस  	Biscuit	Biscuits
+नूडल 	Noodle	Noodles
+पास्ता 	Pasta	Pasta
+ओट मील 	Oat Meals	Oats
+कुरकुरे	Kurkure	Crunchey
+		
+		
+तेल/घी(Oil/Ghee)		
+		
+रिफायंड तेल   	Refined tail	Refined Oil 
+वेजिटेबल तेल  	Vegetable Tail	Vegetable oil
+घी 	Ghee	Ghee
+वनस्पति तेल 	Vanaspati tail	Vanaspati Oil
+वनस्पति घी 	Vanaspati Ghee	Vanaspati Ghee
+नारियल तेल 	Nariyal Tail	Coconut Oil
+मूंगफली तेल 	Munghfali Tail	graundnut Oil
+सूरजमुखी तेल 	SurajMukhi Tail	SunFlower Oil
+सरसों तेल 	Sarson Tail	Mustard Oil
+पूजा तेल 	Pooja Tail	Pooja Oil
+		
+डेयरी उत्पाद(Dairy Product)		
+ 		
+दूध 	Doodh	Milk
+पनीर 	Panir	Cheese 
+छाछ 	Chhcahh	Butter Milk
+दही 	Dahi	Curd
+घी 	Ghee	Ghee
+मक्खन 	Makhan	Butter
+क्रीम 	Cream	Cream
+दूध आइसक्रीम 	Doodh Icecream	Milk Ice Cream 
+दूध पाउडर 	Doodh Powder	Milk Powder
+		
+बैंकिंग पाउडर(Banking Powder) 		
+		
+बैंकिंग सोडा 	Banking Soda	Banking Soda 
+बंकींग पाउडर 	Banking Powder	Banking Powder
+फ़ूड कलर 	Food Colour	Food Coloue
+फ़ूड टेस्ट पाउडर 	Food Taste Powder	Food Taste
+नारियल पाउडर 	Nariyal Powder	Coco Powder
